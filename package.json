@@ -20,6 +20,7 @@
     "delete-pm2-prod": "pm2 delete $(node -e 'const ecosystem = require(\"./ecosystem-prod.config.js\"); console.log(ecosystem.apps[0].name);')",
     "restart-pm2-prod": "npm run delete-pm2-prod && npm run prod",
     "git-update-and-restart": "npm run git-update && npm run restart-pm2-prod",
+    "upgrade": "npm run git-update-and-restart",
     "test": "echo 'no tests'"
   },
   "dependencies": {
