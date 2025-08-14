@@ -18,7 +18,11 @@ Spasm-powered forum DegenRocket supports the following networks:
 
 In 2024, Spasm V2 went live, enabling groundbreaking multi-signing, which allowed users to simultaneously sign the same message with multiple private keys using different protocols and broadcast the message to different networks.
 
-A multi-signed message has multiple authors (public keys), which enables integration of features from different ecosystems. For example, non-unique usernames can be fetched from Nostr meta events (kind 0), while unique usernames can be fetched from blockchain-based NFT-powered naming services like ENS. Different social graph solutions can be plugged from various ecosystem.
+For example, the post about Session vs SimpleX architectures was multi-signed on [monero.top](https://monero.top/news/spasmid010a70651fc27fb9125f7ea) with Ethereum and Nostr private keys and propagated to other Spasm instances like [degenrocket.space](https://degenrocket.space/news/spasmid010a70651fc27fb9125f7ea).
+
+Since the article was pushed to Spasm and Nostr networks, you can also read it in your [native Nostr app](nostr:note1e94uvd0vx2k9mgdgnzzpqmdh0swkqmkhq6uy4c2g3pganxy96pvqlkvmsz). All native Nostr replies to this post will be shown on Spasm instances that enable the Nostr network in settings.
+
+Multi-signed messages display multiple pubkeys so authors can take advantage of different ecosystems like unique usernames from blockchain-based Ethereum naming services and offchain social graph from Nostr.
 
 #### Federation
 
