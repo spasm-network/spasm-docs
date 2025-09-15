@@ -3,8 +3,8 @@
   --colorBase-dark: #d8d8d8;
   --colorBase: var(--colorBase-dark);
 
-  --colorPrimary-light: #ba14bf;
-  --colorPrimary-dark: #ba14bf;
+  --colorPrimary-light: #f420af;
+  --colorPrimary-dark: #f420af;
   --colorPrimary: var(--colorPrimary-dark);
 
   --colorSecondary-light: #000000;
