@@ -150,12 +150,13 @@ a {
   .sidebar {
     position: fixed;
     top: 0;
-    left: -240px;
+    width: 300px;
+    left: -340px;
     transition: transform 0.3s ease;
   }
 
   #toc a {
-    font-size: 1.4rem;
+    font-size: 2.0rem;
   }
 
   #toc li {
@@ -168,7 +169,7 @@ a {
   }
 
   #toggle-sidebar:checked + .hamburger-menu + .sidebar {
-    transform: translateX(200px);
+    transform: translateX(320px);
   }
 
   #toggle-sidebar:checked + .hamburger-menu span {
