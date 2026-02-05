@@ -13,11 +13,15 @@
 
 #### Spasm instances
 
-[degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator
+[zkpunks.dev](https://zkpunks.dev) / [pussypools.fi](https://pussypools.fi) - extremely based zk community
 
-[dark.vegas](https://dark.vegas) (since 2023) - lunarpunk forum
+[dark.vegas](https://dark.vegas) - lunarpunk message board
 
-[monero.top](https://monero.top) (since 2024) - Monero forum
+[forum.unblockedprofile.com](https://forum.unblockedprofile.com) - D-web profile template system
+
+[degenrocket.space](https://degenrocket.space) - DeFi, NFT, privacy
+
+[monero.top](https://monero.top) - Monero forum
 
 [demo.spasm.network](https://demo.spasm.network) - demo playground
 
@@ -25,12 +29,16 @@
 
 #### Tech
 
-[degenrocket-web](https://github.com/degenrocket/degenrocket-web) - Spasm-powered forum (UI)
+[spasm.js](https://github.com/spasm-network/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - npm package
 
-[degenrocket-server](https://github.com/degenrocket/degenrocket-server) - Spasm-powered forum (API)
+[spasm-forum-web](https://github.com/spasm-network/degenrocket-web) - Spasm-powered forum (frontend)
 
-[degenrocket-scripts](https://github.com/degenrocket/degenrocket-scripts) - scripts for managing DegenRocket server
+[spasm-forum-server](https://github.com/spasm-network/degenrocket-server) - Spasm-powered forum (backend)
 
-[spasm.js](https://github.com/degenrocket/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - tools for developing decentralized social media apps
+[spasm-forum-scripts](https://github.com/spasm-network/degenrocket-scripts) - scripts to manage a server
 
-[spasm-docs](https://github.com/degenrocket/spasm) - docs
+[spasm-media](https://github.com/spasm-network/spasm-media) - host media files
+
+[spasm-docs](https://github.com/spasm-network/spasm) - docs
+
+[spasm-slides](https://github.com/spasm-network/spasm-slides) - Spasm slides

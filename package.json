@@ -24,11 +24,11 @@
     "test": "echo 'no tests'"
   },
   "dependencies": {
-    "http-server": "^14.1.1",
-    "marked": "^15.0.7",
-    "marked-gfm-heading-id": "^4.1.1"
+    "http-server": "14.1.1",
+    "marked": "15.0.7",
+    "marked-gfm-heading-id": "4.1.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "3.1.9"
   }
 }
