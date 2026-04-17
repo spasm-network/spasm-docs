@@ -31,11 +31,11 @@
 
 [spasm.js](https://github.com/spasm-network/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - npm package
 
-[spasm-forum-web](https://github.com/spasm-network/degenrocket-web) - Spasm-powered forum (frontend)
+[spasm-forum-web](https://github.com/spasm-network/spasm-forum-web) - Spasm-powered forum (frontend)
 
-[spasm-forum-server](https://github.com/spasm-network/degenrocket-server) - Spasm-powered forum (backend)
+[spasm-forum-server](https://github.com/spasm-network/spasm-forum-server) - Spasm-powered forum (backend)
 
-[spasm-forum-scripts](https://github.com/spasm-network/degenrocket-scripts) - scripts to manage a server
+[spasm-forum-scripts](https://github.com/spasm-network/spasm-forum-scripts) - scripts to manage a server
 
 [spasm-media](https://github.com/spasm-network/spasm-media) - host media files
 
