@@ -17,9 +17,11 @@
 
 [dark.vegas](https://dark.vegas) - lunarpunk message board
 
-[forum.unblockedprofile.com](https://forum.unblockedprofile.com) - D-web profile template system
+[forum.decentralizedscience.org](https://forum.decentralizedscience.org) - lunar DeSci
 
 [degenrocket.space](https://degenrocket.space) - DeFi, NFT, privacy
+
+[forum.unblockedprofile.com](https://forum.unblockedprofile.com) - D-web profile template system
 
 [monero.top](https://monero.top) - Monero forum
 
