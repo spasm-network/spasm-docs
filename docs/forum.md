@@ -4,9 +4,7 @@
 
 There will be all sorts of Spasm-compatible apps in the future, but the first one is a Spasm-powered forum, also known as DegenRocket.
 
-A few examples of Spasm-powered forums that run DegenRocket are [forum.spasm.network](https://forum.spasm.network), [zkpunks.dev](https://zkpunks.dev), [degenrocket.space](https://degenrocket.space), and [monero.top](https://monero.top).
-
-These forums run [spasm-forum-web](https://github.com/spasm-network/spasm-forum-web) for UI and [spasm-forum-server](https://github.com/spasm-network/spasm-forum-server) for API.
+A few examples of Spasm-powered forums that run DegenRocket [spasm-forum-web](https://github.com/spasm-network/spasm-forum-web) for UI and [spasm-forum-server](https://github.com/spasm-network/spasm-forum-server) for API can be found on the [Tribes](https://spasm.network/tribes) page.
 
 #### Moderation
 
