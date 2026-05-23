@@ -2,9 +2,11 @@
 
 #### Spasm-powered forum
 
-There will be all sorts of Spasm-compatible apps in the future, but the first one is a Spasm-powered forum, also known as DegenRocket.
+There are a few Spasm frontends developed by different teams, but the official flagship app is a Spasm-powered forum, which is a full-stack solution comprising frontend, backend, and database.
 
-A few examples of Spasm-powered forums that run DegenRocket [spasm-forum-web](https://github.com/spasm-network/spasm-forum-web) for UI and [spasm-forum-server](https://github.com/spasm-network/spasm-forum-server) for API can be found on the [Tribes](https://spasm.network/tribes) page.
+The recommended way to run a forum is to use [Docker/Podman](https://github.com/spasm-network/spasm-docker) or an automated [full server setup](https://github.com/spasm-network/spasm-ansible) with Ansible.
+
+A few examples of Spasm-powered forums are [DegenRocket](https://degenrocket.space), [DarkVegas](https://dark.vegas), and [zkpunks](https://zkpunks.dev). More instances are listed at the [tribes](https://spasm.network/tribes) page.
 
 #### Moderation
 
